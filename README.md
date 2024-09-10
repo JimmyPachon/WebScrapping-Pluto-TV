@@ -1,6 +1,6 @@
 # Pluto TV WebScrapping
 
-En este proyecto se han extraido diferentes conjuntos de datos de la plataforma de pluto.tv, esto se realizó mediante el uso de la librería de python 'BeautifulSoup'. Los datos obtenidos se compilaron en archivos csv que se ponen a disposición junto a su respectivo diccionario de datos.  
+En este proyecto se han extraido diferentes conjuntos de datos de la plataforma de pluto.tv, una página cuyo objetivo es ofrecer material audiovisual de forma gratuita financiándose por medio de la publicidad, la extracción se realizó mediante el uso de la librería de python 'BeautifulSoup'. Los datos obtenidos se compilaron en archivos csv que se ponen a disposición junto a su respectivo diccionario de datos.  
 
 
 ## Archivos.
