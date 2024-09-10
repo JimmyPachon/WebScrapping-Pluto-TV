@@ -5,7 +5,7 @@ En este proyecto se han extraido diferentes conjuntos de datos de la plataforma 
 
 ## Archivos.
 
-**PlutoTVScrapping.py:** Es una librería creada con el propósito de hacer webscrapping sobre esta página, esto con la finalidad de agilizar y esquematizar el desglose de la página y la extracción de datos. También hace que el proyecto sea fácilmente escalable.
+**PlutoTVScrapping.py:** Es una librería creada con el propósito de hacer webscrapping sobre la plataforma PlutoTV, esto con la finalidad de agilizar y esquematizar el desglose de la página y la extracción de datos. También hace que el proyecto sea fácilmente escalable.
 
 **prueba_tecnica_objetivo.py:** Es un script de python que contiene el código utilizado para la obtención de los datos requeridos en el objetivo de la prueba técnica: metadata_movies, metadata_channels, metadata_series.
 
